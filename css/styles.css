@@ -1,0 +1,30 @@
+#logo{
+    width: 100px;
+    padding: 10px;
+    float: left;
+}
+
+#productosjpg{
+    width: 180px;
+    height: 100px;
+
+}
+
+#h1_marca{
+    padding: 30px;
+    font-size: 50px;
+    color: #990000;
+}
+
+.listado_nav{
+    text-align: right;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-right: 15px;
+    font-size: 30px;
+    font-style: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

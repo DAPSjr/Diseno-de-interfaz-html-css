@@ -1,0 +1,24 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(234, 234, 234);
+}
+nav{
+    background-color: black;
+}
+section{
+    background-color: rgb(234, 234, 234);
+    padding: 25px;
+    width: 50%;
+}
+aside{
+    background-color: #339966;
+    padding: 10px;
+    width: 20%;
+
+}
