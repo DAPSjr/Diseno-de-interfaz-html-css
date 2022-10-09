@@ -4,27 +4,60 @@
     float: left;
 }
 
-#productosjpg{
-    width: 180px;
-    height: 100px;
+#productosupjpg{
+    width: 200px;
+    height: 150px;
+    float: left;
+    padding-right: 20px;
+    padding-bottom:30px;
+}
 
+#productosdownjpg{
+    width: 200px;
+    height: 150px;
+    float: right;
+    padding-right: 20px;
+    padding-bottom:30px;
 }
 
 #h1_marca{
-    padding: 30px;
+    padding: 25px;
+    padding-top: 20px;
     font-size: 50px;
     color: #990000;
 }
 
 .listado_nav{
     text-align: right;
-    padding-bottom: 25px;
-    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
     padding-right: 15px;
-    font-size: 30px;
+    font-size: 25px;
     font-style: sans-serif;
 }
 a{
     text-decoration: none;
     color: white;
+}
+#button_cart{
+    background-color: #990000;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 3px 5px 5px black;
+}
+.article-p{
+    padding: 10px;
+    color: #990000;
+}
+.titles-section{
+    color: #339966;
+}
+.titles_aside{
+    color: #990000;
+}
+#p-aside{
+    padding-top: 10px;
+    font-size: 20px;
 }
